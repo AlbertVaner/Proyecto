@@ -1,0 +1,193 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\Debug\proyecto_1_m.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>proyecto_1_m.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>proyecto_1_m.map</FILE>
+  <FILE>proyecto_1_m.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>21</LINE></MAIN>
+  <MODOS><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1141</LINE></MODOS>
+  <timmer><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1162</LINE></timmer>
+  <setup><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>29</LINE></setup>
+  <prescaler1><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1183</LINE></prescaler1>
+  <MAIN_LOOP><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>139</LINE></MAIN_LOOP>
+  <HORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>168</LINE></HORA>
+  <SALTA_CAMBIAR_HORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>187</LINE></SALTA_CAMBIAR_HORA>
+  <SALTA_FECHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>189</LINE></SALTA_FECHA>
+  <SALTA_CAMBIAR_FECHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>191</LINE></SALTA_CAMBIAR_FECHA>
+  <SALTA_ALARMA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>193</LINE></SALTA_ALARMA>
+  <NUMEROD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>153</LINE></NUMEROD>
+  <BLOQUE_HORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>154</LINE></BLOQUE_HORA>
+  <SALTAR_TRANCIS><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>183</LINE></SALTAR_TRANCIS>
+  <SALTA_HORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>185</LINE></SALTA_HORA>
+  <SALIR1><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>173</LINE></SALIR1>
+  <SELECCIONAR_MODIFICACION><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>201</LINE></SELECCIONAR_MODIFICACION>
+  <SALTAR_SONAR_ALARMA1_R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>195</LINE></SALTAR_SONAR_ALARMA1_R>
+  <TRANCISTORES><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>824</LINE></TRANCISTORES>
+  <RELOJ><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1006</LINE></RELOJ>
+  <CAMBIAR_HORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>198</LINE></CAMBIAR_HORA>
+  <FECHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>351</LINE></FECHA>
+  <CAMBIAR_FECHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>375</LINE></CAMBIAR_FECHA>
+  <ALARMA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>668</LINE></ALARMA>
+  <SONAR_ALARMA1><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>797</LINE></SONAR_ALARMA1>
+  <SELECCIONAR_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>215</LINE></SELECCIONAR_D>
+  <MENU_SUMADOR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>230</LINE></MENU_SUMADOR>
+  <MENU_RESTADOR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>298</LINE></MENU_RESTADOR>
+  <LIMPIAR_SELECCIONADOR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>226</LINE></LIMPIAR_SELECCIONADOR>
+  <SUMAR_U><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>240</LINE></SUMAR_U>
+  <SUMAR_H><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>264</LINE></SUMAR_H>
+  <SUMARUD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>249</LINE></SUMARUD>
+  <LIMPIAR_U><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>253</LINE></LIMPIAR_U>
+  <LIMPIAR_H><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>257</LINE></LIMPIAR_H>
+  <REINICIARU><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>261</LINE></REINICIARU>
+  <SUM_DH><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>294</LINE></SUM_DH>
+  <VERIFICA_24><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>273</LINE></VERIFICA_24>
+  <SUMAR_DIA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>277</LINE></SUMAR_DIA>
+  <SUMAR_DIA_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>285</LINE></SUMAR_DIA_D>
+  <BORRAR_DIAS><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>291</LINE></BORRAR_DIAS>
+  <SALTA_CAMBIO_HORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>348</LINE></SALTA_CAMBIO_HORA>
+  <RESTAR_U><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>309</LINE></RESTAR_U>
+  <RESTAR_H><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>327</LINE></RESTAR_H>
+  <RESTAR_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>316</LINE></RESTAR_D>
+  <EMPEZAR_DE_NUEVOU><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>323</LINE></EMPEZAR_DE_NUEVOU>
+  <RESTAR_DH><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>334</LINE></RESTAR_DH>
+  <EMPEZAR_DE_NUEVOH><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>341</LINE></EMPEZAR_DE_NUEVOH>
+  <SALTA_MAIN_LOOP><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>366</LINE></SALTA_MAIN_LOOP>
+  <SALTA_RELOJ_FECHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>368</LINE></SALTA_RELOJ_FECHA>
+  <SALTO_TRANS_FECHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>370</LINE></SALTO_TRANS_FECHA>
+  <SELECCIONAR_D_F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>657</LINE></SELECCIONAR_D_F>
+  <MENU_SUMADOR_F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>393</LINE></MENU_SUMADOR_F>
+  <MENU_RESTADOR_F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>505</LINE></MENU_RESTADOR_F>
+  <MENU_MESES1><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>407</LINE></MENU_MESES1>
+  <SALTO_SUMAR_M_F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>404</LINE></SALTO_SUMAR_M_F>
+  <SUMAR_M_F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>482</LINE></SUMAR_M_F>
+  <MESES_31F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>460</LINE></MESES_31F>
+  <MESES_28F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>434</LINE></MESES_28F>
+  <MESES_30F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>447</LINE></MESES_30F>
+  <SUM_DIA_DF><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>478</LINE></SUM_DIA_DF>
+  <VERIFICAR_28F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>442</LINE></VERIFICAR_28F>
+  <LIMPIAR_MES><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>473</LINE></LIMPIAR_MES>
+  <VERIFICAR_30F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>455</LINE></VERIFICAR_30F>
+  <VERIFICAR_31F><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>468</LINE></VERIFICAR_31F>
+  <SUMAR_MD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>491</LINE></SUMAR_MD>
+  <VERIFICAR_ANO_NUEVO><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>495</LINE></VERIFICAR_ANO_NUEVO>
+  <ANO_NUEVO_CUMPLIDO><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>500</LINE></ANO_NUEVO_CUMPLIDO>
+  <SALTO_CAMBIAR_FECHA2><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>515</LINE></SALTO_CAMBIAR_FECHA2>
+  <MENU_MESES_R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>519</LINE></MENU_MESES_R>
+  <SALTO_RESTAR_MD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>517</LINE></SALTO_RESTAR_MD>
+  <RESTAR_MD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>627</LINE></RESTAR_MD>
+  <SALTO_MESES31R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>550</LINE></SALTO_MESES31R>
+  <SALTO_MESES_28R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>546</LINE></SALTO_MESES_28R>
+  <SALTO_MESES_30R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>548</LINE></SALTO_MESES_30R>
+  <MESES_31FR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>602</LINE></MESES_31FR>
+  <MESES_28FR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>552</LINE></MESES_28FR>
+  <MESES_30FR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>577</LINE></MESES_30FR>
+  <RESTAR_DD_28><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>566</LINE></RESTAR_DD_28>
+  <VERIFICA_28R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>560</LINE></VERIFICA_28R>
+  <CARGAR_VALORES_28><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>571</LINE></CARGAR_VALORES_28>
+  <RESTAR_DD_30><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>591</LINE></RESTAR_DD_30>
+  <VERIFICA_30R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>585</LINE></VERIFICA_30R>
+  <CARGAR_VALORES_30><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>596</LINE></CARGAR_VALORES_30>
+  <RESTAR_DD_31><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>616</LINE></RESTAR_DD_31>
+  <VERIFICA_31R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>610</LINE></VERIFICA_31R>
+  <CARGAR_VALORES_31><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>621</LINE></CARGAR_VALORES_31>
+  <RESTAR_M_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>637</LINE></RESTAR_M_D>
+  <VERIFICA_ANO_NUEVO><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>643</LINE></VERIFICA_ANO_NUEVO>
+  <RESTABLECER_ANO_NUEVO><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>649</LINE></RESTABLECER_ANO_NUEVO>
+  <SALTO_LIMPIAR_SELECCIONADOR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>666</LINE></SALTO_LIMPIAR_SELECCIONADOR>
+  <SALTO_CAMBIAR_FECHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>664</LINE></SALTO_CAMBIAR_FECHA>
+  <SALTA_MAIN_LOOP_A><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>688</LINE></SALTA_MAIN_LOOP_A>
+  <SALTAR_TRANCISA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>690</LINE></SALTAR_TRANCISA>
+  <SALTA_HORA_A><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>692</LINE></SALTA_HORA_A>
+  <SELECCIONAR_DA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>694</LINE></SELECCIONAR_DA>
+  <MENU_SUMADORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>703</LINE></MENU_SUMADORA>
+  <MENU_RESTADORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>757</LINE></MENU_RESTADORA>
+  <LIMPIAR_SELECCIONADORA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>700</LINE></LIMPIAR_SELECCIONADORA>
+  <SUMAR_UA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>714</LINE></SUMAR_UA>
+  <SUMAR_HA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>736</LINE></SUMAR_HA>
+  <SUMARUDA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>719</LINE></SUMARUDA>
+  <LIMPIAR_UA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>725</LINE></LIMPIAR_UA>
+  <LIMPIAR_HA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>729</LINE></LIMPIAR_HA>
+  <REINICIARUA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>733</LINE></REINICIARUA>
+  <SUM_DHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>751</LINE></SUM_DHA>
+  <VERIFICA_24A><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>743</LINE></VERIFICA_24A>
+  <LIMPIAR_DIA_ALARMA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>747</LINE></LIMPIAR_DIA_ALARMA>
+  <SALTA_ALARMA2><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>755</LINE></SALTA_ALARMA2>
+  <RESTAR_UA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>768</LINE></RESTAR_UA>
+  <RESTAR_HA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>782</LINE></RESTAR_HA>
+  <RESTAR_DA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>773</LINE></RESTAR_DA>
+  <EMPEZAR_DE_NUEVOUA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>779</LINE></EMPEZAR_DE_NUEVOUA>
+  <RESTAR_DHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>787</LINE></RESTAR_DHA>
+  <EMPEZAR_DE_NUEVOHA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>793</LINE></EMPEZAR_DE_NUEVOHA>
+  <SONAR_ALARMA2><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>802</LINE></SONAR_ALARMA2>
+  <SONAR_ALARMA3><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>807</LINE></SONAR_ALARMA3>
+  <SONAR_ALARMA4><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>812</LINE></SONAR_ALARMA4>
+  <SONAR_ALARMA_VERDAD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>817</LINE></SONAR_ALARMA_VERDAD>
+  <T_PRENDER_UNIDADM><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>837</LINE></T_PRENDER_UNIDADM>
+  <T_PRENDER_DECENAM><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>852</LINE></T_PRENDER_DECENAM>
+  <T_PRENDER_UNIDADH><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>866</LINE></T_PRENDER_UNIDADH>
+  <T_PRENDER_DECENAH><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>880</LINE></T_PRENDER_DECENAH>
+  <SALTO_U_UM><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>896</LINE></SALTO_U_UM>
+  <SALTO_C_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>905</LINE></SALTO_C_D>
+  <SALTO_C_MA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>913</LINE></SALTO_C_MA>
+  <SALTO_U_H><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>900</LINE></SALTO_U_H>
+  <SALTO_C_M><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>909</LINE></SALTO_C_M>
+  <SALTO_C_HA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>917</LINE></SALTO_C_HA>
+  <SALTO_U_UMD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>898</LINE></SALTO_U_UMD>
+  <SALTO_C_DD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>907</LINE></SALTO_C_DD>
+  <SALTO_C_MDA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>915</LINE></SALTO_C_MDA>
+  <SALTO_U_HD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>902</LINE></SALTO_U_HD>
+  <SALTO_C_MD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>911</LINE></SALTO_C_MD>
+  <SALTO_C_HDA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>919</LINE></SALTO_C_HDA>
+  <CONFIGURAR_U><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>924</LINE></CONFIGURAR_U>
+  <CONFIGURAR_UD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>931</LINE></CONFIGURAR_UD>
+  <CONFIGURAR_H><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>938</LINE></CONFIGURAR_H>
+  <CONFIGURAR_HD><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>945</LINE></CONFIGURAR_HD>
+  <CONFIGURARA_DIAS><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>952</LINE></CONFIGURARA_DIAS>
+  <CONFIGURARA_DIAS_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>959</LINE></CONFIGURARA_DIAS_D>
+  <CONFIGURARA_MESES><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>966</LINE></CONFIGURARA_MESES>
+  <CONFIGURARA_MESES_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>973</LINE></CONFIGURARA_MESES_D>
+  <CONFIGURAR_UA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>980</LINE></CONFIGURAR_UA>
+  <CONFIGURAR_UDA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>986</LINE></CONFIGURAR_UDA>
+  <CONFIGURAR_HA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>992</LINE></CONFIGURAR_HA>
+  <CONFIGURAR_HDA><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>998</LINE></CONFIGURAR_HDA>
+  <MOSTRAR_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>921</LINE></MOSTRAR_D>
+  <SUMAR_DS><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1014</LINE></SUMAR_DS>
+  <SUMAR_UH><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1021</LINE></SUMAR_UH>
+  <VERICA24><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1034</LINE></VERICA24>
+  <SUMAR_DH><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1030</LINE></SUMAR_DH>
+  <MENU_MESES><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1039</LINE></MENU_MESES>
+  <MESES_31><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1099</LINE></MESES_31>
+  <MESES_28><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1069</LINE></MESES_28>
+  <MESES_30><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1086</LINE></MESES_30>
+  <SUM_DIA_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1082</LINE></SUM_DIA_D>
+  <VERIFICAR_28><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1077</LINE></VERIFICAR_28>
+  <SUMAR_MES><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1112</LINE></SUMAR_MES>
+  <VERIFICAR_30R><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1094</LINE></VERIFICAR_30R>
+  <VERIFICAR_31><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1107</LINE></VERIFICAR_31>
+  <SUMAR_MES_D><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1126</LINE></SUMAR_MES_D>
+  <ANO_NUEVO><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1131</LINE></ANO_NUEVO>
+  <CAMBIAR_MODO><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1148</LINE></CAMBIAR_MODO>
+  <SALIR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1157</LINE></SALIR>
+  <REINICIAR><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1155</LINE></REINICIAR>
+  <MIN_C><FILE>c:\users\albert v h\Documents\Atmel Studio\7.0\proyecto_1_m\proyecto_1_m\main.asm</FILE><LINE>1175</LINE></MIN_C>
+ </LABELS>
+</ASSEMBLER_INFO>
